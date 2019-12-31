@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import time
 
-n_test_cases = 10
+n_test_cases = 5
 print("开始测试，共 " + str(n_test_cases) + " 个测试用例")
 
 
